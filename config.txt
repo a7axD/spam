@@ -1,0 +1,6 @@
+token=NTM0MDI4MzU4ODgzNzM3NjEw.DxzoSw.iVxyYJrAfi6coZgveXG3z_3CQ8o
+owner=526864822348808193
+prefix= E
+game= Ehelp | by:ezookik
+stayinchannel=true
+songinstatus=true 
