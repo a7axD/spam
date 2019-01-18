@@ -1,6 +1,6 @@
-token=NTM0MDI4MzU4ODgzNzM3NjEw.DxzoSw.iVxyYJrAfi6coZgveXG3z_3CQ8o
-owner=526864822348808193
-prefix= E
-game= Ehelp | by:ezookik
+token=NTMyMTk5MTQzODA4OTU4NDY1.DyOF8A.ahR0KybZU90muJD_qN-7sVCNxfc
+owner=507580617878405120
+prefix= 3
+game= 3help | by:Knight Ibrahim
 stayinchannel=true
 songinstatus=true 
